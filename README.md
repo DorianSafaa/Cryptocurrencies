@@ -6,7 +6,7 @@ For this project, we aim to learn about cryptocurrencies and how they can be gro
 
 ## Results
 
-The crypto_data.csv was retrieved from ![CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist). It consists of 6 columns: 	Coin Name,	Algorithm,	IsTrading (Boolean),	Proof Type,	Total Coins Mined, and	Total Coin Supply and 1252 rows. We started by preparing the data for the principal component analysis by removing the null values, label encode the data using get dummies and scale the data using Standard Scaler. Then we used PCA to reduce dimension to three principal components. Finally, clustering Crytocurrencies Using K-Means. The elbow curve suggested 4 clusters  is the best value. 
+The crypto_data.csv was retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist). It consists of 6 columns: 	Coin Name,	Algorithm,	IsTrading (Boolean),	Proof Type,	Total Coins Mined, and	Total Coin Supply and 1252 rows. We started by preparing the data for the principal component analysis by removing the null values, label encode the data using get dummies and scale the data using Standard Scaler. Then we used PCA to reduce dimension to three principal components. Finally, clustering Crytocurrencies Using K-Means. The elbow curve suggested 4 clusters  is the best value. 
 
 ![bokeh_plot](https://user-images.githubusercontent.com/66279829/173300310-b3467ab4-8c58-4c0d-aaf3-463e693f1c37.png)
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/66279829/173300345-a8466924-3d17-4725-8ce0-a3f57a252aa1.png)
