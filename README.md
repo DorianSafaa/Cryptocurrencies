@@ -10,6 +10,7 @@ The crypto_data.csv was retrieved from [CryptoCompare](https://min-api.cryptocom
 
 ![bokeh_plot](https://user-images.githubusercontent.com/66279829/173300310-b3467ab4-8c58-4c0d-aaf3-463e693f1c37.png)
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/66279829/173300345-a8466924-3d17-4725-8ce0-a3f57a252aa1.png)
+![Capture](https://user-images.githubusercontent.com/66279829/173302033-96c25332-e8eb-4830-b259-6264506a1949.PNG)
 ![newplot (1)](https://user-images.githubusercontent.com/66279829/173300364-ce515375-0691-4370-bd72-0e60bc7db4d1.png)
 
 
